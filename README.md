@@ -17,6 +17,5 @@ This is a responsive front-end clone of the Udemy homepage built using only HTML
     This project was created to sharpen my front-end development skills, specifically working with Flexbox for responsive web layouts. It’s a UI-only clone and does not include any back-end functionality or interactivity.
 
 🚀 How to Use
-    click here
-    git clone https://github.com/your-username/udemy-clone.git
+    click here https://ruthra2198.github.io/udemy-clone/
     Open index.html in your browser to view the project.
